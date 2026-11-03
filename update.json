@@ -1,0 +1,18 @@
+{
+  "product": "GUIFrameworkTool",
+  "version": "1.1.0",
+  "channel": "stable",
+  "tag": "v1.1.0",
+  "published": "2026-11-03",
+  "notes": {
+    "en": "Licensing and updates in English and Dutch, data folder next to the program, installer with CyberFirePulse branding, About window with contact details, Team edition.",
+    "nl": "Licentie en updates in het Engels en Nederlands, gegevensmap naast het programma, installer met CyberFirePulse-uitstraling, venster Over met contactgegevens, Team-editie."
+  },
+  "installer": {
+    "filename": "GUIFrameworkToolSetup_1.1.0.exe",
+    "download_url": "https://github.com/cyberfirepulse/GUIFrameworkTool/releases/download/v1.1.0/GUIFrameworkToolSetup_1.1.0.exe",
+    "sha256": "80e2ea9307d01ddffac328c1d1cc346dc4ae04d321a92009054b5c8329724a7e"
+  },
+  "download_url": "https://github.com/cyberfirepulse/GUIFrameworkTool/releases/download/v1.1.0/GUIFrameworkToolSetup_1.1.0.exe",
+  "sha256": "80e2ea9307d01ddffac328c1d1cc346dc4ae04d321a92009054b5c8329724a7e"
+}
