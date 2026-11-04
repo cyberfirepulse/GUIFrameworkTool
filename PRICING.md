@@ -11,7 +11,7 @@ Annual licenses. Updates are included while the license is valid.
 | **Team – Education** | Schools and training providers | 30 workstations | **€ 149** excl. VAT |
 
 - **Basic** includes projects, the visual designer, the built-in Python wizards, and generating and running Python apps.
-- **Professional and Team** add PowerShell apps, the EXE builder, the source and wizard editor with code import, and plugins.
+- **Professional and Team** add PowerShell, C# and Java apps, the EXE builder, the source and wizard editor with code import, and plugins.
 - **Evaluation** has all features.
 - Python 3.10 or newer is needed to run generated Python apps and to build EXE files.
 
@@ -40,7 +40,7 @@ Jaarlicenties; updates zitten erbij zolang de licentie geldig is.
 | **Team – Onderwijs** | Scholen en opleiders | 30 werkplekken | **€ 149** excl. btw |
 
 - **Basic** bevat projecten, de visuele ontwerper, de ingebouwde Python-wizards, en Python-apps genereren en uitvoeren.
-- **Professional en Team** voegen PowerShell-apps, de EXE-builder, de bron- en wizardeditor met code-import en plugins toe.
+- **Professional en Team** voegen PowerShell-, C#- en Java-apps, de EXE-builder, de bron- en wizardeditor met code-import en plugins toe.
 - **Evaluation** heeft alle functies.
 - Voor het uitvoeren van gegenereerde Python-apps en het bouwen van EXE-bestanden is Python 3.10 of nieuwer nodig.
 
