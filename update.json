@@ -1,18 +1,18 @@
 {
   "product": "GUIFrameworkTool",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "channel": "stable",
-  "tag": "v1.1.0",
-  "published": "2026-11-03",
+  "tag": "v1.2.0",
+  "published": "2026-11-04",
   "notes": {
-    "en": "Licensing and updates in English and Dutch, data folder next to the program, installer with CyberFirePulse branding, About window with contact details, Team edition.",
-    "nl": "Licentie en updates in het Engels en Nederlands, gegevensmap naast het programma, installer met CyberFirePulse-uitstraling, venster Over met contactgegevens, Team-editie."
+    "en": "Main screen and help in English, 7 new project templates for lessons (including form and quiz exercises), new output languages C# (WinForms) and Java (Swing), and fixes in generated apps: button rows, dropdown options, per-tab output and host, PowerShell commands now run. The welcome window now shows its buttons with display scaling.",
+    "nl": "Hoofdscherm en help in het Engels, 7 nieuwe projectsjablonen voor de les (met oefeningen formulier en quiz), nieuwe uitvoertalen C# (WinForms) en Java (Swing), en verbeteringen in gegenereerde apps: knoppenrijen, keuzelijst-opties, uitvoer en host per tabblad, PowerShell-commando's werken nu. Het welkomstvenster toont zijn knoppen nu ook bij schermschaal."
   },
   "installer": {
-    "filename": "GUIFrameworkToolSetup_1.1.0.exe",
-    "download_url": "https://github.com/cyberfirepulse/GUIFrameworkTool/releases/download/v1.1.0/GUIFrameworkToolSetup_1.1.0.exe",
-    "sha256": "80e2ea9307d01ddffac328c1d1cc346dc4ae04d321a92009054b5c8329724a7e"
+    "filename": "GUIFrameworkToolSetup_1.2.0.exe",
+    "download_url": "https://github.com/cyberfirepulse/GUIFrameworkTool/releases/download/v1.2.0/GUIFrameworkToolSetup_1.2.0.exe",
+    "sha256": "38b088b76cdb9fcf4132eb2c4d78486d40f257ddd6e6a7bcbf8cd9bcbd5cf95c"
   },
-  "download_url": "https://github.com/cyberfirepulse/GUIFrameworkTool/releases/download/v1.1.0/GUIFrameworkToolSetup_1.1.0.exe",
-  "sha256": "80e2ea9307d01ddffac328c1d1cc346dc4ae04d321a92009054b5c8329724a7e"
+  "download_url": "https://github.com/cyberfirepulse/GUIFrameworkTool/releases/download/v1.2.0/GUIFrameworkToolSetup_1.2.0.exe",
+  "sha256": "38b088b76cdb9fcf4132eb2c4d78486d40f257ddd6e6a7bcbf8cd9bcbd5cf95c"
 }
